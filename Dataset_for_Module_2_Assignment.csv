@@ -1,0 +1,503 @@
+order_id,customer_name,order_date,total_amount,status,category,region,priority
+1000,Grace Lee,2022-12-27,290.94,shipped ,Furniture,North,Medium
+1001,David Wilson,2022-10-13,369.45,PENDING,furniture,North,Low
+1002,Henry Martin,2022-09-30,649.46,PENDING,furniture,West,Low
+1003,Emma Davis,2023-01-04,575.07,Pending,garden,East,Low
+1004,Grace Lee,2022-03-03,362.54,Shipped,electronics,South,High
+1005,Jack Harris,2022-03-25,986.65,shipped ,GARDEN,East,Medium
+1006,Charlie Brown,2023-01-03,609.72,PENDING,electronics,East,Low
+1007,Grace Lee,2022-08-05,244.85,Pending,Electronics,East,Medium
+1008,Henry Martin,2022-12-08,110.76,PENDING,electronics,North,Medium
+1009,Emma Davis,2023-02-01,161.33,shipped ,Electronics,West,Low
+1010,David Wilson,2022-07-06,253.5,shipped ,Electronics,North,Low
+1011,Henry Martin,2022-01-19,169.07,Cancelled,GARDEN,West,Medium
+1012,Henry Martin,2022-06-26,194.7,CANCELLED ,Furniture,South,Low
+1013,Charlie Brown,2022-04-10,292.24,CANCELLED ,garden,South,Medium
+1014,Frank Thomas,2023-01-31,181.64,Pending,electronics,East,Medium
+1015,Emma Davis,2023-03-21,,shipped ,Electronics,West,Low
+1016,Bob Johnson,2022-08-21,89.43,Cancelled,electronics,West,High
+1017,Henry Martin,2023-02-07,529.27,Cancelled,Furniture,West,Low
+1018,Frank Thomas,2022-03-17,416.29,PENDING,garden,East,High
+1019,Bob Johnson,2022-09-22,982.55,PENDING,Furniture,East,Medium
+1020,Emma Davis,2023-03-31,120.92,Cancelled,garden,South,Medium
+1021,Alice Smith,2022-10-11,403.88,PENDING,furniture,North,High
+1022,Jack Harris,2022-07-25,969.78,shipped ,garden,West,Medium
+1023,Frank Thomas,2022-08-11,866.85,Shipped,GARDEN,West,High
+1024,Isabella White,2023-01-19,818.9,shipped ,Furniture,North,High
+1025,Alice Smith,2022-02-21,265.32,Cancelled,Electronics,West,Medium
+1026,Jack Harris,2022-12-05,179.18,Cancelled,furniture,East,High
+1027,Charlie Brown,2023-01-02,671.96,shipped ,GARDEN,East,Low
+1028,Grace Lee,2022-05-24,930.08,PENDING,electronics,West,Low
+1029,David Wilson,2023-01-08,561.2,PENDING,Furniture,East,Medium
+1030,Isabella White,2022-03-10,575.9,CANCELLED ,Electronics,East,Medium
+1031,Charlie Brown,2022-04-09,287.18,Cancelled,garden,West,High
+1032,Emma Davis,2023-01-31,771.8,Pending,Electronics,South,High
+1033,Charlie Brown,2022-01-25,195.17,CANCELLED ,electronics,North,High
+1034,Grace Lee,2023-03-12,330.44,PENDING,furniture,East,High
+1035,Emma Davis,2023-01-14,,shipped ,furniture,South,Low
+1036,Isabella White,2023-04-14,512.53,PENDING,Furniture,East,Low
+1037,Grace Lee,2023-04-29,249.99,shipped ,furniture,East,Medium
+1038,Bob Johnson,2022-02-22,123.69,CANCELLED ,Furniture,North,High
+1039,David Wilson,2022-05-31,614.51,Cancelled,Furniture,East,High
+1040,Isabella White,2022-05-24,295.74,PENDING,Furniture,North,Medium
+1041,Bob Johnson,2022-02-26,585.43,shipped ,garden,North,High
+1042,Jack Harris,2022-02-08,162.82,Cancelled,GARDEN,North,High
+1043,Isabella White,2022-04-19,486.33,Pending,Furniture,South,High
+1044,Jack Harris,2022-06-30,537.26,shipped ,Furniture,West,High
+1045,Emma Davis,2022-02-11,61.31,CANCELLED ,GARDEN,South,High
+1046,Bob Johnson,2022-07-05,343.24,Pending,Electronics,West,Medium
+1047,David Wilson,2023-02-27,143.07,Pending,Furniture,West,High
+1048,Grace Lee,2023-02-02,72.74,Shipped,garden,North,Medium
+1049,Henry Martin,2022-08-11,990.06,PENDING,furniture,East,High
+1050,Charlie Brown,2022-05-02,329.13,shipped ,furniture,North,Low
+1051,Alice Smith,2022-05-13,811.78,Pending,electronics,East,Low
+1052,David Wilson,2022-06-12,262.09,Shipped,electronics,West,Low
+1053,Bob Johnson,2022-08-03,684.69, CANCELLED ,furniture,North,Low
+1054,Henry Martin,2022-08-09,762.63,Cancelled,furniture,East,Medium
+1055,David Wilson,2022-08-23,599.68,shipped ,garden,South,Medium
+1056,Bob Johnson,2022-11-27,476.86,Pending,GARDEN,East,High
+1057,Frank Thomas,2022-05-26,417.72,PENDING,electronics,North,Low
+1058,Frank Thomas,2022-08-27,355.38,Shipped,GARDEN,South,Medium
+1059,Jack Harris,2022-03-17,930.23,Pending,garden,East,High
+1060,David Wilson,2022-01-09,,PENDING,furniture,East,High
+1061,Frank Thomas,2022-03-15,965.38,Pending,Furniture,East,Medium
+1062,Bob Johnson,2023-03-18,,shipped ,GARDEN,East,Low
+1063,Jack Harris,2023-05-07,733.56,shipped ,furniture,East,High
+1064,Bob Johnson,2023-02-05,938.96,shipped ,furniture,South,Low
+1065,Jack Harris,2022-09-10,189.42,CANCELLED ,Electronics,West,Low
+1066,David Wilson,2022-08-18,75.83,CANCELLED ,GARDEN,South,Low
+1067,Henry Martin,2022-01-07,743.71,Shipped,Furniture,South,High
+1068,Grace Lee,2022-06-23,578.73,shipped ,GARDEN,South,Low
+1069,Isabella White,2022-05-21,843.41,PENDING,furniture,West,High
+1070,Henry Martin,2022-06-17,148.37,Pending,Furniture,North,Low
+1071,Emma Davis,2022-06-19,797.31,Cancelled,garden,West,High
+1072,Bob Johnson,2023-01-28,209.61,PENDING,Electronics,South,Low
+1073,Emma Davis,2023-03-10,172.02,CANCELLED ,furniture,East,Medium
+1074,Henry Martin,2022-10-10,172.62,CANCELLED ,electronics,East,Low
+1075,Jack Harris,2022-05-02,816.43,PENDING,electronics,South,Low
+1076,Isabella White,2022-07-13,668.55,CANCELLED ,Electronics,East,High
+1077,Isabella White,2022-01-05,527.83,shipped ,garden,South,High
+1078,Alice Smith,2022-01-29,365.24,Shipped,furniture,East,Low
+1079,Isabella White,2022-06-14,878.43,Pending,GARDEN,West,Medium
+1080,Grace Lee,2023-02-26,,Shipped,Electronics,North,Medium
+1081,Isabella White,2022-12-05,818.43,Pending,garden,North,High
+1082,Henry Martin,2022-05-16,444.74,Pending,GARDEN,West,Medium
+1083,Alice Smith,2023-05-11,383.17,Shipped,electronics,West,Low
+1084,Henry Martin,2022-12-31,468.05,PENDING,electronics,South,High
+1085,Henry Martin,2022-11-17,308.36,Pending,GARDEN,South,Low
+1086,Charlie Brown,2022-12-08,750.13,Shipped,Electronics,South,High
+1087,Alice Smith,2023-05-15,507.69,Pending,electronics,East,High
+1088,Henry Martin,2022-05-25,239.89,Cancelled,furniture,South,High
+1089,Charlie Brown,2022-11-23,900.58,PENDING,Furniture,West,High
+1090,Charlie Brown,2022-08-05,390.05,shipped ,GARDEN,North,Medium
+1091,Alice Smith,2022-10-28,548.12,Pending,GARDEN,East,Low
+1092,Emma Davis,2022-05-12,907.41,Cancelled,electronics,South,Low
+1093,Jack Harris,2022-10-19,628,shipped ,Electronics,East,Low
+1094,Grace Lee,2022-03-11,125.73,shipped ,furniture,East,High
+1095,Jack Harris,2022-09-09,940.43,Pending,Electronics,South,Medium
+1096,Isabella White,2023-02-19,631.43,Shipped,garden,East,Low
+1097,Grace Lee,2022-10-02,341.56,Pending,garden,North,Medium
+1098,Isabella White,2023-03-21,147.88,Cancelled,Furniture,West,High
+1099,Henry Martin,2022-12-30,796.08,shipped ,electronics,West,Low
+1100,Bob Johnson,2022-07-01,623.87,Pending,electronics,North,Medium
+1101,Alice Smith,2022-06-16,538.13,Shipped,electronics,East,High
+1102,Grace Lee,2022-04-01,894.95,Pending,Furniture,South,Medium
+1103,Grace Lee,2022-07-21,,PENDING,garden,East,Low
+1104,Henry Martin,2022-12-12,160.16,Shipped,Electronics,North,Low
+1105,Emma Davis,2022-01-19,318.6,Cancelled,Furniture,East,High
+1106,Charlie Brown,2022-02-08,256,shipped ,Furniture,West,High
+1107,Henry Martin,2022-05-06,746.51,Pending,Electronics,East,High
+1108,Frank Thomas,2023-03-27,43.2,Shipped,electronics,North,Medium
+1109,Charlie Brown,2022-06-22,574.19,PENDING,furniture,West,Medium
+1110,Alice Smith,2022-05-21,764.83,Shipped,Electronics,East,Medium
+1111,Charlie Brown,2022-08-30,878,CANCELLED ,garden,East,High
+1112,Emma Davis,2022-08-08,348.66,PENDING,GARDEN,West,Low
+1113,Charlie Brown,2022-05-06,823.04,Cancelled,GARDEN,South,Low
+1114,Alice Smith,2022-02-27,119.53,shipped ,Furniture,West,Medium
+1115,Emma Davis,2022-05-28,847.99,Cancelled,GARDEN,South,Medium
+1116,Jack Harris,2023-04-21,136.21,Pending,furniture,North,Low
+1117,Grace Lee,2023-04-01,403.31,Shipped,electronics,North,Low
+1118,Grace Lee,2022-11-13,799.32,CANCELLED ,garden,West,Medium
+1119,Isabella White,2023-01-18,158.42,PENDING,furniture,West,Medium
+1120,Jack Harris,2022-12-27,236.96,PENDING,garden,North,Low
+1121,Jack Harris,2023-02-27,725.03,Shipped,garden,South,High
+1122,Charlie Brown,2022-01-01,722.84,CANCELLED ,electronics,North,Medium
+1122,Charlie Brown,2022-01-01,722.84,CANCELLED ,electronics,North,Medium
+1123,Grace Lee,2023-01-22,644.74,Shipped,Furniture,West,Low
+1124,Alice Smith,2023-04-06,697.01,Pending,GARDEN,North,Low
+1125,David Wilson,2022-12-14,547.3,Cancelled,electronics,West,Low
+1126,David Wilson,2022-07-09,259.28,PENDING,furniture,West,Low
+1127,Emma Davis,2022-07-10,352.24,Pending,Furniture,North,High
+1128,Grace Lee,2023-01-04,189.78,Cancelled,furniture,South,Low
+1129,Grace Lee,2023-02-13,909.37,Pending,Furniture,East,Medium
+1130,David Wilson,2022-11-08,587.56,CANCELLED ,furniture,North,High
+1131,Grace Lee,2023-02-21,406.84,PENDING,electronics,East,Low
+1132,Charlie Brown,2023-02-26,467.39,Shipped,Furniture,North,High
+1133,Frank Thomas,2022-04-27,947.81,Shipped,Furniture,East,Medium
+1134,Bob Johnson,2022-05-14,161.82,Cancelled,garden,South,Low
+1135,Jack Harris,2022-02-27,590.37,shipped ,garden,South,Medium
+1136,Isabella White,2022-02-13,510.83,CANCELLED ,Electronics,North,Low
+1137,Emma Davis,2022-06-22,615.34,Cancelled,furniture,West,Low
+1138,Frank Thomas,2022-06-09,27.93,shipped ,garden,East,Low
+1139,David Wilson,2022-06-22,873.4,Pending,Electronics,West,Low
+1140,Jack Harris,2022-11-13,932.8,CANCELLED ,garden,West,Low
+1140,Jack Harris,2022-11-13,932.8,CANCELLED ,garden,West,Low
+1141,Grace Lee,2022-10-30,569.48, Pending,furniture,West,High
+1142,Isabella White,2022-05-29,699.68,PENDING,Furniture,South,Low
+1143,Grace Lee,2022-03-21,923.27,CANCELLED ,GARDEN,North,Low
+1144,Alice Smith,2023-01-09,710.17,shipped ,furniture,North,High
+1145,Alice Smith,2022-08-01,161.01,PENDING,electronics,South,High
+1146,Isabella White,2022-07-22,580.53,Shipped,garden,South,High
+1147,Isabella White,2022-09-09,610.65,shipped ,garden,North,High
+1148,David Wilson,2022-08-17,429.89,Cancelled,Furniture,West,High
+1149,Isabella White,2022-06-13,739.08,Shipped,electronics,East,High
+1150,Charlie Brown,2022-08-15,935.02,Shipped,Furniture,East,Low
+1151,Grace Lee,2022-05-27,926.31,Cancelled,electronics,East,Low
+1152,Frank Thomas,2022-01-20,456.33,CANCELLED ,GARDEN,West,Medium
+1153,Henry Martin,2023-03-17,122.11,Shipped,garden,North,Low
+1154,Isabella White,2023-02-06,984.99,shipped ,garden,South,Low
+1155,Emma Davis,2022-02-16,840.51,PENDING,GARDEN,North,High
+1156,Alice Smith,2022-08-21,133.42,Shipped,Electronics,West,High
+1157,Charlie Brown,2022-11-01,921.63,shipped ,Furniture,South,Low
+1158,Jack Harris,2022-01-14,871.2,Pending,GARDEN,West,Medium
+1159,Henry Martin,2022-05-23,523.65,shipped ,Furniture,East,High
+1160,Frank Thomas,2023-02-19,595.36,PENDING,furniture,East,Low
+1161,Henry Martin,2022-01-01,405.01,shipped ,garden,West,Low
+1162,Isabella White,2023-01-08,64.21,Cancelled,Furniture,South,Medium
+1163,David Wilson,2022-02-23,341.85,PENDING,electronics,South,Medium
+1164,Alice Smith,2023-01-09,804.82,CANCELLED ,Furniture,North,High
+1165,Alice Smith,2022-09-16,14.59,Pending,furniture,East,Medium
+1166,Jack Harris,2022-05-24,340.16,Cancelled,garden,North,Low
+1167,David Wilson,2023-04-16,404.19,CANCELLED ,GARDEN,North,Low
+1168,Grace Lee,2023-03-17,542.02,shipped ,furniture,West,Medium
+1169,Bob Johnson,2023-04-04,920.66,PENDING,garden,West,Medium
+1170,Charlie Brown,2022-01-12,,Pending,Furniture,North,Medium
+1171,Alice Smith,2022-11-26,353.48,Cancelled,Electronics,East,Medium
+1172,Emma Davis,2022-08-12,740.13,CANCELLED ,Electronics,West,High
+1173,Alice Smith,2022-09-29,457.7,CANCELLED ,electronics,North,Medium
+1174,Henry Martin,2023-04-01,232.36,Pending,garden,North,High
+1175,Alice Smith,2022-12-24,457.92,shipped ,Electronics,North,Low
+1176,Alice Smith,2023-04-05,149.45,Pending,GARDEN,North,Medium
+1177,Bob Johnson,2023-02-12,184.62,CANCELLED ,garden,North,High
+1178,Bob Johnson,2022-06-05,503.38,Shipped,GARDEN,North,Medium
+1179,Frank Thomas,2023-01-08,424.74,Cancelled,GARDEN,West,Low
+1180,Grace Lee,2022-01-08,915.7,Pending,Electronics,East,Low
+1181,Emma Davis,2022-05-02,368.77,CANCELLED ,garden,North,Low
+1182,Alice Smith,2022-12-14,584.78,shipped ,Furniture,South,Medium
+1183,Alice Smith,2022-06-13,635.94,CANCELLED ,furniture,West,Medium
+1184,Charlie Brown,2022-03-31,22.96,shipped ,Electronics,West,High
+1185,Bob Johnson,2022-05-16,666.9,Pending,Electronics,North,Low
+1186,Emma Davis,2022-07-05,186.26,shipped ,Furniture,West,Medium
+1187,Jack Harris,2022-11-12,961.46,PENDING,garden,North,Low
+1188,Frank Thomas,2022-06-27,157.18,PENDING,garden,East,Low
+1189,Grace Lee,2022-01-28,420.48,PENDING,GARDEN,East,High
+1190,David Wilson,2022-08-08,94.5,Shipped,Furniture,West,High
+1191,Grace Lee,2022-12-23,996.91,Pending,Furniture,West,High
+1192,Henry Martin,2022-02-10,507.17,CANCELLED ,garden,South,High
+1193,Alice Smith,2022-08-16,599.43,CANCELLED ,GARDEN,West,Low
+1194,Frank Thomas,2022-07-11,76.41,Shipped,Electronics,South,High
+1195,Henry Martin,2023-02-15,752.46,shipped ,electronics,East,High
+1196,Emma Davis,2023-03-23,217.81,Shipped,furniture,East,High
+1197,David Wilson,2022-05-25,899.07,shipped ,Electronics,North,High
+1198,Bob Johnson,2022-07-20,213.09,shipped ,garden,East,Low
+1199,Frank Thomas,2023-02-21,198.78,Cancelled,furniture,South,High
+1200,Frank Thomas,2022-07-31,46.18,CANCELLED ,electronics,West,Low
+1201,Alice Smith,2023-04-06,477.35,PENDING,electronics,North,Medium
+1202,Isabella White,2022-08-08,,shipped ,GARDEN,South,Low
+1203,Frank Thomas,2022-08-28,75.05,Cancelled,furniture,West,Low
+1204,Charlie Brown,2023-02-17,777.77,CANCELLED ,GARDEN,North,High
+1205,David Wilson,2023-02-01,458.76,PENDING,Electronics,East,Medium
+1206,David Wilson,2022-02-15,529.15,shipped ,Furniture,South,Medium
+1207,Charlie Brown,2022-02-04,446.36,shipped ,Furniture,West,Medium
+1208,Jack Harris,2022-09-10,406.76,Shipped,Furniture,North,Medium
+1209,Charlie Brown,2023-01-25,564.04,Shipped,furniture,North,Low
+1210,Charlie Brown,2022-03-23,163.69,CANCELLED ,Furniture,East,Medium
+1211,David Wilson,2023-01-06,190.11,PENDING,Electronics,West,Low
+1212,Grace Lee,2022-09-13,863.17,shipped ,GARDEN,East,Low
+1213,David Wilson,2022-07-16,946.65,CANCELLED ,furniture,East,Low
+1214,Isabella White,2022-10-30,379.58,CANCELLED ,GARDEN,West,Medium
+1215,Alice Smith,2023-02-13,278.04,Pending,furniture,West,High
+1216,Henry Martin,2023-03-26,647.56,Shipped,GARDEN,West,High
+1217,Grace Lee,2022-01-10,414.65,PENDING,electronics,South,Medium
+1218,Bob Johnson,2022-11-08,35.13,shipped ,GARDEN,West,High
+1219,Henry Martin,2022-10-13,164.59,CANCELLED ,Furniture,North,High
+1220,Alice Smith,2022-08-30,718.81,shipped ,electronics,East,Low
+1221,Isabella White,2022-09-08,662.33,Pending,GARDEN,South,Low
+1222,Isabella White,2022-12-31,36.83,PENDING,furniture,West,Medium
+1223,Bob Johnson,2022-01-05,229.75,CANCELLED ,furniture,South,Medium
+1224,Grace Lee,2022-04-29,238.76,shipped ,furniture,West,High
+1225,Jack Harris,2022-10-16,675.17,Shipped,garden,South,Low
+1226,Charlie Brown,2023-01-09,29.51,Pending,Electronics,East,Medium
+1227,Grace Lee,2022-03-06,113.07,PENDING,furniture,East,Medium
+1228,Jack Harris,2022-05-26,801.92,Pending,electronics,North,Medium
+1229,Isabella White,2022-08-12,186.76,Shipped,furniture,North,Medium
+1230,David Wilson,2022-08-27,656.22,PENDING,garden,West,Medium
+1231,Alice Smith,2022-06-26,245.8,Pending,Furniture,East,Medium
+1232,Bob Johnson,2022-09-24,108.45,Cancelled,electronics,South,High
+1233,Alice Smith,2022-12-07,250.74,Shipped,garden,South,Low
+1234,Emma Davis,2022-10-09,725.04,Shipped,Furniture,South,Low
+1235,Emma Davis,2022-03-04,857.14,Shipped,electronics,North,Medium
+1236,Grace Lee,2022-08-05,831.92,Cancelled,GARDEN,South,Low
+1237,Isabella White,2022-12-08,403.21,Cancelled,Electronics,North,Low
+1238,Isabella White,2022-11-11,671.4,shipped ,Electronics,North,Low
+1239,Charlie Brown,2022-10-10,212.93,CANCELLED ,garden,West,Medium
+1240,Charlie Brown,2022-06-26,300.22,Pending,Furniture,South,Medium
+1241,Charlie Brown,2023-04-06,897.37,shipped ,Electronics,South,Low
+1242,David Wilson,2023-02-21,22.87,Pending,Furniture,East,Low
+1243,Henry Martin,2022-04-08,94.65,CANCELLED ,Furniture,West,Medium
+1244,Frank Thomas,2022-04-15,215.81,Cancelled,garden,East,High
+1245,Henry Martin,2022-04-09,36.27,CANCELLED ,garden,West,Low
+1246,Alice Smith,2023-01-20,189.62,Cancelled,garden,South,High
+1247,Henry Martin,2023-02-09,587.21,CANCELLED ,Electronics,North,Low
+1248,David Wilson,2023-05-11,427.21,shipped ,garden,North,High
+1249,Alice Smith,2022-11-07,,PENDING,ELECTRONICS,North,High
+1250,Henry Martin,2022-01-06,819.27,shipped ,garden,North,High
+1251,David Wilson,2023-04-21,348.4,Pending,furniture,North,Medium
+1252,Frank Thomas,2023-04-10,266.83,shipped ,Furniture,East,High
+1253,Henry Martin,2022-07-16,385.9,Shipped,garden,West,High
+1254,David Wilson,2022-12-17,594.39,Pending,electronics,South,High
+1255,Charlie Brown,2022-05-13,275.38,CANCELLED ,Furniture,East,Low
+1256,Isabella White,2022-12-24,627.91,Pending,Furniture,West,High
+1257,Charlie Brown,2022-09-16,415.32,PENDING,garden,North,Low
+1258,Isabella White,2023-03-13,556.53,Cancelled,GARDEN,West,High
+1259,Bob Johnson,2022-01-23,441.77,CANCELLED ,garden,West,High
+1260,Bob Johnson,2023-04-30,301.52,Pending,Furniture,North,Medium
+1261,Bob Johnson,2022-02-22,948.97,CANCELLED ,electronics,North,Low
+1262,Frank Thomas,2022-06-14,765.97,CANCELLED ,Furniture,North,High
+1263,Charlie Brown,2022-07-21,148.71,CANCELLED ,electronics,South,Low
+1264,Isabella White,2023-04-03,869.78,Cancelled,Electronics,North,Low
+1265,David Wilson,2022-03-24,492.56,shipped ,furniture,South,Medium
+1266,Alice Smith,2022-05-25,895.61,CANCELLED ,Furniture,North,Medium
+1267,David Wilson,2022-03-26,801.86,Shipped,garden,South,Medium
+1268,Alice Smith,2022-03-19,430.96,PENDING,Electronics,West,Medium
+1269,Emma Davis,2023-04-02,32.24,Cancelled,furniture,East,Medium
+1270,David Wilson,2023-01-01,275.99,Pending,garden,West,Medium
+1271,Henry Martin,2022-01-01,546.22,Cancelled,GARDEN,West,Medium
+1272,Henry Martin,2022-02-20,637.14,Pending,garden,North,Medium
+1273,Grace Lee,2022-06-22,265.31,Cancelled,electronics,South,High
+1274,Charlie Brown,2022-07-24,147.96,Pending,electronics,East,Low
+1275,Alice Smith,2022-09-17,,CANCELLED ,GARDEN,North,Medium
+1276,Alice Smith,2023-03-22,984.56,shipped ,Electronics,North,Medium
+1277,Charlie Brown,2023-03-25,530.43,Pending,furniture,North,Low
+1278,Frank Thomas,2023-01-04,179.96,Pending,garden,West,High
+1279,Grace Lee,2023-05-03,279.58,Shipped,electronics,South,Low
+1280,Frank Thomas,2022-10-15,28.21,Pending,Electronics,South,Low
+1281,Frank Thomas,2022-02-03,915.16,Shipped,GARDEN,East,Medium
+1282,Frank Thomas,2022-12-14,126.57,PENDING,Furniture,South,Low
+1283,Charlie Brown,2022-04-05,580.75,CANCELLED ,electronics,South,Low
+1284,Frank Thomas,2022-03-13,281.31,Shipped,GARDEN,North,Medium
+1285,Henry Martin,2022-02-08,558.64,shipped ,garden,North,Medium
+1286,Bob Johnson,2022-06-03,654.91,CANCELLED ,furniture,West,Medium
+1287,Emma Davis,2022-09-07,831.44,Shipped,electronics,North,Medium
+1288,Alice Smith,2022-06-11,214.36,CANCELLED ,electronics,North,Low
+1289,Alice Smith,2023-03-14,20.89,CANCELLED ,garden,North,Low
+1290,Emma Davis,2022-04-28,145.52,CANCELLED ,Furniture,North,High
+1291,Charlie Brown,2022-09-16,901.02,PENDING,Electronics,West,High
+1292,David Wilson,2023-01-14,875.15,shipped ,furniture,North,Low
+1293,Charlie Brown,2022-11-02,601.44,Cancelled,electronics,East,High
+1294,Alice Smith,2022-09-25,604.51,Cancelled,furniture,East,Low
+1295,Alice Smith,2023-03-25,668.39,Shipped,electronics,East,High
+1296,Emma Davis,2022-02-23,183.62,CANCELLED ,furniture,East,Medium
+1297,Frank Thomas,2022-08-24,915.27,Shipped,GARDEN,North,High
+1298,Charlie Brown,2023-01-24,424.58,PENDING,electronics,East,Medium
+1299,Isabella White,2023-04-23,389.31,PENDING,furniture,North,Medium
+1300,Emma Davis,2022-08-10,523.73,Pending,Electronics,West,Medium
+1301,Henry Martin,2022-09-08,56.5,PENDING,GARDEN,East,Medium
+1302,Alice Smith,2022-11-09,174.62,Pending,GARDEN,South,High
+1303,Emma Davis,2023-02-05,740.65,shipped ,Electronics,East,Low
+1304,Charlie Brown,2022-04-22,91.97,Shipped,furniture,East,Medium
+1305,Alice Smith,2022-09-12,607.12,shipped ,garden,North,High
+1306,David Wilson,2022-10-30,252.9,PENDING,Electronics,East,Medium
+1307,Emma Davis,2023-02-11,395.4,shipped ,furniture,South,High
+1308,Grace Lee,2022-07-26,295.81,shipped ,Electronics,North,High
+1309,Alice Smith,2022-08-17,362.12,shipped ,Electronics,North,High
+1310,Charlie Brown,2022-12-07,721.86,PENDING,electronics,West,Low
+1311,Bob Johnson,2023-02-02,304.15,CANCELLED ,furniture,West,High
+1312,Isabella White,2022-03-07,,shipped ,garden,East,High
+1313,Jack Harris,2022-03-16,481.29,Pending,electronics,West,Low
+1314,Frank Thomas,2023-03-11,667.03,PENDING,Electronics,West,Low
+1315,Jack Harris,2022-04-13,937.46,shipped ,Furniture,West,High
+1316,Charlie Brown,2023-02-26,735.25,CANCELLED ,Electronics,North,Low
+1317,Henry Martin,2022-07-11,222.79,PENDING,Electronics,North,Medium
+1318,Henry Martin,2022-09-09,40.87,Cancelled,furniture,North,Medium
+1319,Bob Johnson,2022-08-14,269.64,CANCELLED ,furniture,West,Low
+1320,Frank Thomas,2022-10-21,599.13,Pending,electronics,North,Low
+1321,Grace Lee,2022-11-02,60.91,shipped ,garden,West,High
+1322,Bob Johnson,2022-04-08,501.4,Cancelled,electronics,North,Low
+1323,Jack Harris,2022-12-04,600.87,Cancelled,GARDEN,North,High
+1324,Bob Johnson,2022-10-13,340.9,PENDING,Electronics,South,Medium
+1325,Jack Harris,2022-12-01,773.2,Cancelled,Furniture,East,Low
+1326,Alice Smith,2022-12-13,115.53,Pending,Electronics,West,High
+1327,Henry Martin,2023-03-11,84.39,Pending,Electronics,South,High
+1328,Alice Smith,2023-03-23,730.91,Shipped,electronics,North,Medium
+1329,Isabella White,2023-04-27,500.54,Pending,Furniture,West,Low
+1330,Frank Thomas,2022-11-04,691.52,CANCELLED ,Furniture,North,Medium
+1331,Grace Lee,2022-09-06,440.48,Cancelled,Furniture,East,High
+1332,Jack Harris,2022-06-15,253.94,Pending,electronics,South,High
+1333,Grace Lee,2023-04-26,820.91,PENDING,Electronics,East,Low
+1334,Jack Harris,2023-04-17,801.42,Shipped,electronics,South,High
+1335,Charlie Brown,2022-12-01,697.75,Cancelled,furniture,North,Low
+1336,Bob Johnson,2022-01-30,279.42,Shipped,furniture,East,Medium
+1337,Isabella White,2022-09-04,594.33,Cancelled,electronics,East,Low
+1338,Henry Martin,2022-04-16,367.36,PENDING,Furniture,North,Low
+1339,Jack Harris,2022-02-20,100.67,Shipped,Electronics,East,High
+1340,Grace Lee,2022-03-22,918.14,shipped ,electronics,West,High
+1341,Isabella White,2022-05-13,145.45,CANCELLED ,electronics,South,Low
+1342,David Wilson,2022-10-12,950.73,CANCELLED ,electronics,South,High
+1343,David Wilson,2023-01-23,451.55,Cancelled,GARDEN,South,High
+1344,Alice Smith,2022-05-18,193.28,shipped ,furniture,West,High
+1345,Henry Martin,2022-07-03,546.48,Shipped,Furniture,South,Low
+1346,Charlie Brown,2023-02-05,,shipped ,garden,North,High
+1347,Grace Lee,2022-11-26,734.9,shipped ,Furniture,East,Low
+1348,Bob Johnson,2022-09-30,808.5,Shipped,garden,West,High
+1349,Bob Johnson,2022-12-06,662.2,PENDING,GARDEN,South,Medium
+1350,Grace Lee,2023-04-17,695.35,shipped ,electronics,North,High
+1351,Frank Thomas,2022-03-10,850.7,shipped ,GARDEN,East,High
+1352,Charlie Brown,2022-02-03,257.17,PENDING,GARDEN,East,Low
+1353,Isabella White,2022-09-19,494.53,shipped ,Electronics,West,Low
+1354,Jack Harris,2022-02-22,229,shipped ,furniture,West,High
+1355,Frank Thomas,2023-03-26,987.79,shipped ,garden,West,Medium
+1356,Jack Harris,2022-07-24,944.62,CANCELLED ,electronics,North,High
+1357,Jack Harris,2022-05-06,,Pending,garden,North,High
+1358,Frank Thomas,2022-08-23,708.52,PENDING,Furniture,West,Medium
+1359,Alice Smith,2022-02-12,926,shipped ,garden,South,Low
+1360,David Wilson,2022-08-28,188.77,CANCELLED ,Furniture,East,High
+1361,Jack Harris,2023-04-04,572.27,PENDING,furniture,East,Low
+1362,Frank Thomas,2023-01-06,916.33,Cancelled,Furniture,North,Low
+1363,Frank Thomas,2022-04-21,43.61,Cancelled,garden,East,Medium
+1364,Emma Davis,2022-09-06,700.45,shipped ,garden,South,Medium
+1365,Alice Smith,2022-05-31,304.38, CANCELLED ,Furniture,East,Low
+1366,Henry Martin,2022-07-02,925.15,CANCELLED ,GARDEN,North,High
+1367,Emma Davis,2022-12-02,971.35,PENDING,furniture,North,Low
+1368,Emma Davis,2022-04-05,944.82,PENDING,Electronics,South,High
+1369,Grace Lee,2023-04-04,479.47,CANCELLED ,electronics,South,High
+1370,David Wilson,2023-01-09,863.42,PENDING,garden,East,Medium
+1371,Frank Thomas,2023-02-04,846.1,CANCELLED ,electronics,East,High
+1372,David Wilson,2022-01-08,325.91, Pending,Electronics,North,High
+1373,Charlie Brown,2023-01-23,830.63,CANCELLED ,electronics,South,Low
+1374,Grace Lee,2022-12-26,46.64,Cancelled,Electronics,South,Medium
+1375,Henry Martin,2023-01-23,600.31,PENDING,Furniture,South,High
+1376,David Wilson,2022-07-03,237.71,CANCELLED ,GARDEN,East,High
+1377,Bob Johnson,2022-10-08,129.36,CANCELLED ,garden,South,Medium
+1378,Jack Harris,2022-07-14,86.18,PENDING,Electronics,North,Low
+1379,Charlie Brown,2022-12-18,699.33,Pending,electronics,North,Medium
+1380,Alice Smith,2022-07-14,346.48,Pending,garden,East,Medium
+1381,Henry Martin,2022-06-04,727.52,PENDING,GARDEN,West,High
+1382,Charlie Brown,2022-04-03,74.7,Shipped,Furniture,East,High
+1383,Jack Harris,2022-06-09,322.14,PENDING,garden,West,Low
+1384,Grace Lee,2023-03-10,544.1,PENDING,Electronics,South,High
+1385,Jack Harris,2022-03-02,792.82,Pending,GARDEN,East,High
+1386,Emma Davis,2022-05-02,,Pending,electronics,North,Medium
+1387,Jack Harris,2022-02-20,629.63,PENDING,GARDEN,South,High
+1388,Emma Davis,2023-02-07,887.12,PENDING,GARDEN,North,Low
+1389,Grace Lee,2022-10-04,619.7,PENDING,furniture,South,Medium
+1390,Isabella White,2022-01-05,240.63,Pending,GARDEN,East,Low
+1391,Emma Davis,2023-04-11,34.16,PENDING,GARDEN,West,Medium
+1392,Alice Smith,2022-04-02,871.4,PENDING,garden,South,High
+1393,Jack Harris,2022-06-19,31.06,shipped ,electronics,West,Medium
+1394,Jack Harris,2022-11-13,875.95,Shipped,garden,South,Medium
+1395,Alice Smith,2022-01-22,533.65,Cancelled,garden,North,High
+1396,Bob Johnson,2023-02-09,939.68,Shipped,Electronics,North,High
+1397,Frank Thomas,2022-11-22,800.8,shipped ,garden,South,Low
+1398,Isabella White,2022-01-01,997.95,Cancelled,furniture,West,Low
+1399,Henry Martin,2022-05-13,357.2,PENDING,furniture,East,High
+1400,Emma Davis,2022-08-21,769.52,shipped ,Electronics,East,High
+1401,Alice Smith,2022-01-12,,PENDING,Furniture,North,High
+1402,Grace Lee,2022-12-12,485.08,Pending,electronics,East,Medium
+1403,Emma Davis,2022-02-15,631.23,CANCELLED ,electronics,North,Medium
+1404,Frank Thomas,2022-02-03,874.94,shipped ,garden,East,Medium
+1405,Grace Lee,2023-03-09,984.24,Pending,garden,South,High
+1406,Charlie Brown,2022-03-19,,shipped ,Furniture,North,Low
+1407,Jack Harris,2022-08-06,423.59,shipped ,garden,North,High
+1408,Charlie Brown,2022-10-28,427.14,Pending,electronics,South,Medium
+1409,Emma Davis,2023-02-15,740.21,Cancelled,GARDEN,North,Medium
+1410,Frank Thomas,2022-03-14,246.39,Shipped,furniture,East,High
+1411,Isabella White,2022-10-09,119.37,PENDING,GARDEN,East,High
+1412,Emma Davis,2022-09-06,361.08,shipped ,GARDEN,North,Medium
+1413,Alice Smith,2022-02-16,294.37,PENDING,electronics,East,Medium
+1414,David Wilson,2022-05-01,303.35,CANCELLED ,GARDEN,West,Medium
+1415,Emma Davis,2022-08-02,241.27,Pending,Furniture,North,High
+1416,Jack Harris,2022-08-27,51.67,PENDING,Electronics,South,Medium
+1417,Jack Harris,2022-02-25,27.7,Pending,garden,West,Medium
+1418,Emma Davis,2022-12-16,987.85,PENDING,Electronics,North,Low
+1419,Grace Lee,2022-04-17,433.5,Shipped,furniture,South,High
+1420,David Wilson,2022-11-15,,Shipped,garden,East,Low
+1421,Alice Smith,2022-02-17,682.85,Shipped,GARDEN,South,Low
+1422,Emma Davis,2022-03-02,226.07,Shipped,furniture,West,Medium
+1423,Grace Lee,2022-12-03,950.46,Shipped,garden,East,High
+1424,Jack Harris,2022-01-26,788.48,Shipped,Furniture,North,Medium
+1425,Jack Harris,2022-10-19,98.52,Pending,Furniture,East,High
+1426,Frank Thomas,2022-09-14,423.4,shipped ,Furniture,North,Low
+1427,Emma Davis,2022-01-08,880.33,PENDING,Furniture,North,High
+1428,David Wilson,2022-04-23,945.28,Shipped,GARDEN,South,Medium
+1429,Bob Johnson,2022-12-21,472.73,Pending,Electronics,South,Medium
+1430,David Wilson,2022-09-10,617.28,Pending,garden,South,Medium
+1431,Jack Harris,2022-06-29,175.36,Pending,GARDEN,West,High
+1432,Jack Harris,2022-07-26,991.26,shipped ,Furniture,West,Low
+1433,Charlie Brown,2022-10-30,,PENDING,Electronics,South,Low
+1434,Jack Harris,2022-05-07,943.3,shipped ,furniture,West,High
+1435,Alice Smith,2022-02-25,653.15,Cancelled,furniture,East,Medium
+1436,Henry Martin,2022-08-02,611.66,Pending,furniture,East,Low
+1437,Emma Davis,2022-01-14,517.56,Cancelled,Furniture,West,Medium
+1438,David Wilson,2023-04-19,238.36,CANCELLED ,furniture,West,High
+1439,Henry Martin,2022-01-28,184.76,Shipped,electronics,East,Medium
+1440,Grace Lee,2023-04-16,228.28,Shipped,garden,North,Low
+1441,Bob Johnson,2022-03-19,194.57,shipped ,garden,East,Low
+1442,Alice Smith,2022-08-04,781.79,PENDING,Furniture,East,Medium
+1443,David Wilson,2023-01-21,356.62,Cancelled,electronics,West,High
+1444,Henry Martin,2022-12-31,67.26,PENDING,GARDEN,East,Medium
+1445,Bob Johnson,2022-06-03,969.41,shipped ,GARDEN,West,High
+1446,Charlie Brown,2022-01-14,884.95,Shipped,furniture,West,Medium
+1447,Alice Smith,2022-07-06,928.47,PENDING,Electronics,South,Low
+1448,Alice Smith,2022-11-08,994.96,PENDING,GARDEN,East,High
+1449,Charlie Brown,2023-01-06,182.16,Shipped,Electronics,North,High
+1450,Emma Davis,2022-01-07,402.28,Cancelled,garden,South,High
+1451,Charlie Brown,2022-01-03,760.66,Shipped,Electronics,West,Low
+1452,Alice Smith,2022-04-21,699.06,PENDING,garden,West,Medium
+1453,Alice Smith,2023-02-11,162.36,Cancelled,electronics,North,Low
+1454,Henry Martin,2022-08-26,817.67,Cancelled,electronics,West,High
+1455,Jack Harris,2022-12-29,232.2,Shipped,Furniture,East,Medium
+1456,Bob Johnson,2022-08-27,231.58,PENDING,Furniture,South,Low
+1457,Charlie Brown,2023-05-08,541.6,shipped ,furniture,West,High
+1458,Bob Johnson,2022-10-01,597.01,PENDING,GARDEN,West,High
+1459,Charlie Brown,2022-10-21,584.29,Pending,furniture,North,Low
+1460,Grace Lee,2022-08-15,100.57,CANCELLED ,garden,East,Low
+1461,Alice Smith,2023-01-06,878.69,shipped ,furniture,West,Low
+1462,Jack Harris,2022-01-15,272.94,Cancelled,Electronics,North,High
+1463,Henry Martin,2022-07-11,138.22,shipped ,garden,West,Low
+1464,Jack Harris,2023-04-18,889.86,Cancelled,Furniture,North,High
+1465,Jack Harris,2022-04-29,956.09,Cancelled,electronics,North,Low
+1466,Jack Harris,2023-04-30,863.51,shipped ,Furniture,East,High
+1467,Bob Johnson,2022-01-28,811.42,Cancelled,GARDEN,West,High
+1468,Charlie Brown,2022-07-21,658.69,Cancelled,garden,East,Medium
+1469,Isabella White,2022-02-08,555.35,Pending,garden,North,Low
+1470,Grace Lee,2023-03-17,96.12,PENDING,Electronics,South,Low
+1471,David Wilson,2022-09-30,414.37,PENDING,GARDEN,West,High
+1472,Jack Harris,2022-08-19,378.96,CANCELLED ,electronics,South,High
+1473,Emma Davis,2022-03-27,267.16,CANCELLED ,garden,West,High
+1474,Bob Johnson,2023-04-19,726.19,Pending,garden,East,Medium
+1475,Henry Martin,2022-05-06,500.92,CANCELLED ,Electronics,East,Medium
+1476,David Wilson,2022-10-27,90.24,shipped ,furniture,East,High
+1477,Isabella White,2022-01-25,227.98,Shipped,electronics,East,Low
+1478,Emma Davis,2022-05-25,686.43,Shipped,Furniture,East,Low
+1479,Isabella White,2022-01-13,85.37,Shipped,GARDEN,South,Medium
+1480,David Wilson,2022-07-31,852.69,Pending,garden,East,Medium
+1481,Jack Harris,2022-01-25,500.2,Pending,garden,North,High
+1482,Emma Davis,2022-03-09,,Cancelled,Furniture,North,Low
+1483,Isabella White,2023-01-29,596.48,Shipped,electronics,South,High
+1484,Henry Martin,2022-03-08,826.43,shipped ,furniture,West,Medium
+1485,Charlie Brown,2022-08-21,354.33,CANCELLED ,garden,North,Low
+1486,Alice Smith,2022-04-19,681.24,shipped ,electronics,West,Low
+1487,Charlie Brown,2022-05-26,,CANCELLED ,Furniture,South,Medium
+1488,David Wilson,2022-04-21,274.36,Shipped,Electronics,West,High
+1489,Bob Johnson,2022-08-16,879.84,Shipped,furniture,West,High
+1490,Alice Smith,2022-04-21,799.45,Shipped,GARDEN,West,Low
+1491,Grace Lee,2023-04-15,661.87,Pending,garden,West,Medium
+1492,Henry Martin,2022-02-03,852.08,CANCELLED ,electronics,South,Low
+1493,Grace Lee,2022-04-21,868.62,Pending,Electronics,North,Medium
+1494,Emma Davis,2022-09-21,711.28,Pending,GARDEN,East,High
+1495,Alice Smith,2023-02-28,838.64,PENDING,electronics,West,Medium
+1496,Grace Lee,2023-01-04,700.5,shipped ,electronics,North,High
+1497,Grace Lee,2022-08-24,683.34,shipped ,GARDEN,North,Medium
+1498,Isabella White,2022-03-24,622.43,Cancelled,Electronics,South,Low
+1499,Charlie Brown,2022-02-11,755.19,Pending,Furniture,North,High
